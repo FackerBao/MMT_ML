@@ -1,0 +1,1 @@
+python main.py --dataset 85_data.csv --mode k_shape --max_iter 30 --max_n_clusters 10 --n_init 3 --seed 7  
